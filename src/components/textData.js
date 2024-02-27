@@ -14,12 +14,12 @@ import icon5 from "../assets/icon5.png";
 const headerSpanish = {
   punchline: "Lambdas de puerto a puerto con",
   attributes: ["alta confiabilidad", "nx10G y nx100G", "pérdidas mínimas"],
-  buttoncontact: "Contacta",
+  buttoncontact: "Contactanos",
   buttonexplore: "Explora Más",
 };
 const headerEnglish = {
   punchline: "Port to port lambdas with",
-  attributes: ["Performance", "99.9% QOS", "Bandwidth"],
+  attributes: ["High performance", "nx10G and nx100G", "Bandwidth"],
   buttoncontact: "Contact Us",
   buttonexplore: "Explore More",
 };
@@ -40,7 +40,7 @@ const customersEnglish = {
 const partnersSpanish = {
   header: "Aliados Comerciales",
   subheader: "Red OPGW unificando",
-  subheader_1: "a todos los transportistas de electricidad en Guatemala",
+  subheader_1: "a múltiples empresas de transporte eléctrico en Guatemala",
 };
 
 const partnersEnglish = {
@@ -104,7 +104,7 @@ const dataSpanish = [
     image: icon2,
   },
   {
-    text: "400 km de cobertura con 99.99% QoS",
+    text: "400 km de cobertura con alta disponibilidad",
     color: "blue",
     icon: RiCompass3Line,
     image: icon3,
@@ -141,14 +141,14 @@ const dataEnglish = [
   },
   {
     id: 3,
-    text: "400 km coverage with 99.99% QoS",
+    text: "400 km coverage with high reliability",
     color: "blue",
     icon: RiCompass3Line,
     image: icon3,
   },
   {
     id: 4,
-    text: "Centralized PLEX and PLIN management",
+    text: "Centralized OSP management",
     color: "purple",
     icon: RiCalendarCheckLine,
     image: icon4,
