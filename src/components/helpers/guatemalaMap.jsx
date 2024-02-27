@@ -15,6 +15,8 @@ import L from "leaflet";
 import drop from "../../assets/drop.png";
 const position = [16.6, -90.23];
 const markers = [
+  {name: "Puerto Barrios", position: [15.72778, -88.59444]},
+  {name: "Morales", position: [15.47225, -88.8407]},
   { name: "Puerto San Jose", position: [13.93, -90.834] },
   { name: "Ciudad GC", position: [14.634, -90.506] },
   { name: "El Rancho", position: [14.925, -90.015] },

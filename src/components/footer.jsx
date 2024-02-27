@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="flex bg-[#060016] p-10 flex-row flex-wrap items-center justify-center  text-center">
       <Typography color="gray" className="font-normal">
-        &copy; 2024 NN
+        &copy; 2024 Fiberx
       </Typography>
     </footer>
   );
