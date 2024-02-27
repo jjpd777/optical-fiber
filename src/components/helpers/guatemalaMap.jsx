@@ -53,7 +53,7 @@ const GuatemalaMap = () => {
         maxZoom={10}
       /> */}
       <TileLayer
-        attribution="&copy; jawg"
+        attribution=""
         url={`https://tile.jawg.io/94af11de-19be-4916-9ad9-1e1b250c3d41/{z}/{x}/{y}{r}.png?access-token=${
           import.meta.env.VITE_JAWG_TOKEN
         }`}
